@@ -1,41 +1,23 @@
-# SQL_Portfolio 
-This repository contains a variety of SQL projects that highlight my skills in data analysis, manipulation, and reporting. Each project involves solving real-world problems, exploring datasets, and uncovering valuable insights.
+# Project Overview 
+This project analyzis sales data form a US Superstore between 2014-2018, to identify sales performance, high revenue customers, market trends, time-based sales trends, revenue by category and sub-category of products and more.
 
-## Key Projects
-1. **Sales Analysis**:
-   - Description: Analyzed monthly revenue trends for an e-commerce dataset.
-   - Tools: Google BigQuery
-   - Key Insights: Identified seasonal trends and top-performing product categories.
-
-2. **Customer Retention Study**:
-   - Description: Analyzed churn rates and identified factors influencing customer retention.
-   - Tools: MySQL
-   - Key Insights: Recommendations to improve customer loyalty programs.
-
-3. **Data Cleaning**:
-   - Description: Cleaned and standardized raw data for further analysis.
-   - Tools: PostgreSQL
-   - Techniques: Dealing with nulls, duplicates, and inconsistent formats.
-
-## Skills Demonstrated
-- Writing efficient and optimized SQL queries.
-- Performing data transformations, aggregations, and cleaning.
-- Creating insights-driven reports using subqueries, CTEs, and joins.
-- Managing datasets from multiple sources.
+## Dataset
+The dataset used for this project contains historical sales data for a US Superstore. The data has been collected from Kaggle. This dataset contains fields such as Order Date, Product ID, Category, Region, Sales and more.
 
 ## Tools Used
-- Google BigQuery
-- MySQL
-- PostgreSQL
-- Microsoft SQL Server
+**Programming Language**: SQL.
+**Database Management System** Google BigQuery
 
-## How to Explore
-- Navigate through the project folders in this repository to see SQL scripts and sample datasets.
-- Each folder includes:
-  - A detailed README for the project.
-  - SQL scripts with well-documented code.
-  - Supporting files (e.g., query results in CSV format).
+## SQL Techniques Used
+- Aggrigate functions.
+- Subqueries.
+- CTEs.
+- Joins etc.
 
-## About Me
-I'm passionate about solving complex problems using SQL and turning raw data into actionable insights. Feel free to reach out if you have questions or want to discuss data-related projects!
+## Insights Gained
+- Total revenue has shown consistent annual growth, with the exception of a minor decline between 2014 and 2015
+- Products form the electronics category dominated sales, generating 35% of the total revenue.
+- The Canon imageCLASS 2200 Advanced Copier was the best performing product pulling in a total revenue of $253,399.27.
+- The West was the region that generated the most revenue, contributing to 31% of the total, with furniture being the most sort after category of product in that region.
+- September, November and December are the months that consistently generate the most revenue across all the years, being the top 3 revenue generating month for each year, with the only   exception of December which fell from the top 3 in 2017.
 
