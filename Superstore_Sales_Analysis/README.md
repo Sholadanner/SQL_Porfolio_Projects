@@ -6,6 +6,7 @@ The dataset used for this project contains historical sales data for a US Supers
 
 ## Tools Used
 **Programming Language**: SQL.
+
 **Database Management System** Google BigQuery
 
 ## SQL Techniques Used
