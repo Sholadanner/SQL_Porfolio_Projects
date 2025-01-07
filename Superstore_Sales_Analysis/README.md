@@ -2,7 +2,7 @@
 This project analyzis sales data form a US Superstore between 2014-2018, to identify sales performance, high revenue customers, market trends, time-based sales trends, revenue by category and sub-category of products and more.
 
 ## Dataset
-The dataset used for this project contains historical sales data for a US Superstore. The data has been collected from Kaggle. This dataset contains fields such as Order Date, Product ID, Category, Region, Sales and more.
+The dataset used for this project contains historical sales data for a US Superstore. The data has been collected from Kaggle. This dataset contains fields such as Order Date, Segment, Category, Region, Sales and more.
 
 ## Tools Used
 **Programming Language**: SQL.
