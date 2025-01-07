@@ -4,7 +4,7 @@ This repository contains a variety of SQL projects that highlight my skills in d
 ## Key Projects
 1. **Sales Analysis**:
    - Description: Analyzed monthly revenue trends for an e-commerce dataset.
-   - Tools: Google BigQuery
+   - Tools: SQL Server Management Studio
    - Key Insights: Identified seasonal trends and top-performing product categories.
 
 ## Skills Demonstrated
