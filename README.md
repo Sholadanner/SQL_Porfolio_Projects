@@ -7,16 +7,6 @@ This repository contains a variety of SQL projects that highlight my skills in d
    - Tools: Google BigQuery
    - Key Insights: Identified seasonal trends and top-performing product categories.
 
-2. **Customer Retention Study**:
-   - Description: Analyzed churn rates and identified factors influencing customer retention.
-   - Tools: MySQL
-   - Key Insights: Recommendations to improve customer loyalty programs.
-
-3. **Data Cleaning**:
-   - Description: Cleaned and standardized raw data for further analysis.
-   - Tools: PostgreSQL
-   - Techniques: Dealing with nulls, duplicates, and inconsistent formats.
-
 ## Skills Demonstrated
 - Writing efficient and optimized SQL queries.
 - Performing data transformations, aggregations, and cleaning.
@@ -25,8 +15,6 @@ This repository contains a variety of SQL projects that highlight my skills in d
 
 ## Tools Used
 - Google BigQuery
-- MySQL
-- PostgreSQL
 - Microsoft SQL Server
 
 ## How to Explore
