@@ -6,7 +6,9 @@ The dataset used for this project contains data relating to the Covid-19 pandemi
 
 ## Tools Used
 **Spreadsheet**: Excel
+
 **Programming Language**: SQL
+
 **Database Management System**: SQL Server Management Studio (SSMS)
 
 ## SQL Techniques Used
