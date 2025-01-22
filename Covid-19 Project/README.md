@@ -23,3 +23,7 @@ The dataset used for this project contains data relating to the Covid-19 pandemi
 4. 7 out of the 10 countries with highest covid counts also conducted the most test.
 5. January 2022 was the month that saw the highest number of Covid-19 cases in Africa, with 1,433,745 confirmed cases.
 6. August 2021 was the deadliest period in the continent, with a total of 31,304 Covid-19 related deaths.
+
+## Visualizations
+To view visaulizations for a clearer understanding of the analysis, follow the link below:
+[Visualizations](https://public.tableau.com/app/profile/shola.danner/viz/Covid-19InAfrica_17375095994100/Dashboard1)
