@@ -26,4 +26,5 @@ The dataset used for this project contains data relating to the Covid-19 pandemi
 
 ## Visualizations
 To view visaulizations for a clearer understanding of the analysis, follow the link below:
+
 [Visualizations](https://public.tableau.com/app/profile/shola.danner/viz/Covid-19InAfrica_17375095994100/Dashboard1)
